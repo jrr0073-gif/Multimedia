@@ -2,5 +2,5 @@
     <string name="app_name">RecursosJesus</string>
     <string name="nombre">Jesus Regil Rodriguez</string>
     <string name="boton_acceder">Acceder</string>
-    <string name="boton_salirr">Salir</string>
+    <string name="boton_salir">Salir</string>
 </resources>
