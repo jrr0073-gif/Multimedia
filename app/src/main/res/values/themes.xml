@@ -1,10 +1,10 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
 
-    <style name="Base.Theme.RecursosOscar" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.RecursosJesus" parent="Theme.Material3.DayNight.NoActionBar">
     </style>
 
-    <style name="Theme.RecursosOscar" parent="Base.Theme.RecursosJesus" />
+    <style name="Base.Theme.RecursosJesus." parent="Base.Theme.RecursosJesus" />
 
 
     <style name="EstiloBotones">

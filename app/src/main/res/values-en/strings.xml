@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecursosJesus</string>
+    <string name="boton_acceder">Access</string>
+    <string name="boton_salir">Leave</string>
+</resources>
